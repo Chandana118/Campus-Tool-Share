@@ -188,11 +188,3 @@ node seed.js
 ```
 
 ---
-
-## 📝 License
-
-MIT — Built for students, by students. 💪
-
----
-
-**Made with ❤️ for the campus community**
