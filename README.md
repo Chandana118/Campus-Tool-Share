@@ -17,7 +17,7 @@
 - 📬 Order tracking (incoming & outgoing)
 - 👤 Profile editing
 - 📱 Fully responsive design
-- 🎨 Gen-Z premium light theme (Student Tribe Red)
+- 🎨 Gen-Z premium light theme 
 
 ---
 
